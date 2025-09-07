@@ -15,14 +15,7 @@ This project focuses on practicing **game development**, including gameplay mech
 
 ## Development Showcase
 
-### Latest Gameplay Video
-[Watch Video](Development_Showcase/OpenWorld - Unreal Editor 2025-09-07 23-26-35.mp4)
-
-### Screenshots
-![Screenshot 1](Development_Showcase/OpenWorld - Unreal Editor 07-09-2025 23_28_23.png)
-![Screenshot 2](Development_Showcase/OpenWorld - Unreal Editor 07-09-2025 23_29_14.png)
-![Screenshot 3](Development_Showcase/OpenWorld - Unreal Editor 07-09-2025 23_30_00.png)
-![Screenshot 4](Development_Showcase/OpenWorld - Unreal Editor 07-09-2025 23_30_48.png)
+All recent development updates, including gameplay videos and screenshots, are available in the `Development_Showcase` folder. Check this folder to see the latest progress on the game.
 
 ---
 
